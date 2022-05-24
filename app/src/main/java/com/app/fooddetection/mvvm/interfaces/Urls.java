@@ -1,7 +1,7 @@
 package com.app.fooddetection.mvvm.interfaces;
 
 public interface Urls {
-    String BASE_URL = "http://192.168.43.129:8000";
+    String BASE_URL = "http://192.168.100.10:8000";
     String URL_LOGIN = "/auth/login/";
     String URL_REG = "/auth/registration/";
     String URL_GOOGLE_LOGIN = "/auth/google/";

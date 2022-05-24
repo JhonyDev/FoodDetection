@@ -7,7 +7,6 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
@@ -16,7 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.app.fooddetection.R;
 import com.app.fooddetection.info.Info;
 import com.app.fooddetection.mvvm.MvvmUtils;
-import com.app.fooddetection.mvvm.mapping_utils.GenericResponse;
+import com.app.fooddetection.mvvm.facade.GenericResponse;
 import com.app.fooddetection.mvvm.pojos.response.UserPojo;
 import com.app.fooddetection.utils.DialogUtils;
 import com.app.fooddetection.utils.GalleryUtils;

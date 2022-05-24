@@ -10,8 +10,8 @@ import androidx.lifecycle.LiveData;
 
 import com.app.fooddetection.mvvm.APIClient;
 import com.app.fooddetection.mvvm.interfaces.NetworkCalls;
-import com.app.fooddetection.mvvm.mapping_utils.GenericCall;
-import com.app.fooddetection.mvvm.mapping_utils.GenericResponse;
+import com.app.fooddetection.mvvm.facade.GenericCall;
+import com.app.fooddetection.mvvm.facade.GenericResponse;
 import com.app.fooddetection.mvvm.pojos.request.ConsumeRequest;
 import com.app.fooddetection.mvvm.pojos.request.PostLoginPojo;
 import com.app.fooddetection.mvvm.pojos.request.PostRegPojo;

@@ -13,7 +13,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.app.fooddetection.R;
 import com.app.fooddetection.mvvm.MvvmUtils;
-import com.app.fooddetection.mvvm.mapping_utils.GenericResponse;
+import com.app.fooddetection.mvvm.facade.GenericResponse;
 import com.app.fooddetection.mvvm.pojos.request.ConsumeRequest;
 import com.app.fooddetection.mvvm.pojos.response.CaptureResponse;
 import com.app.fooddetection.mvvm.pojos.response.ConsumeResponse;

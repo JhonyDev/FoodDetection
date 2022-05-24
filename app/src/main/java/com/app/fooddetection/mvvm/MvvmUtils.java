@@ -7,7 +7,7 @@ import android.widget.Toast;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.lifecycle.ViewModelStoreOwner;
 
-import com.app.fooddetection.mvvm.mapping_utils.GenericResponse;
+import com.app.fooddetection.mvvm.facade.GenericResponse;
 import com.app.fooddetection.mvvm.pojos.response.RegResponse;
 import com.app.fooddetection.mvvm.viewmodels.ViewModelRepo;
 

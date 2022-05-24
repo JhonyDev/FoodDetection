@@ -1,4 +1,4 @@
-package com.app.fooddetection.mvvm.mapping_utils;
+package com.app.fooddetection.mvvm.facade;
 
 import androidx.lifecycle.MutableLiveData;
 

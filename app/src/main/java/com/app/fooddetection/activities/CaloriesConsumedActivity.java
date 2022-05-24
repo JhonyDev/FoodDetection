@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.app.fooddetection.R;
 import com.app.fooddetection.adapters.TypeRecyclerViewAdapter;
 import com.app.fooddetection.mvvm.MvvmUtils;
-import com.app.fooddetection.mvvm.mapping_utils.GenericResponse;
+import com.app.fooddetection.mvvm.facade.GenericResponse;
 import com.app.fooddetection.mvvm.pojos.Super;
 import com.app.fooddetection.mvvm.pojos.response.ConsumeResponse;
 import com.app.fooddetection.utils.DialogUtils;
